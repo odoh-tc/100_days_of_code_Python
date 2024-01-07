@@ -1,4 +1,4 @@
-- Conditional Statements
+- Conditional Statements(ifs, elifs, multiple ifs, nested if)
 - Logical Operators
 - Code Blocks and Scope
 - BMI Calculator project
