@@ -1,3 +1,5 @@
 - Loops
 - Range
 - Code blocks
+- FizzBuzz Program
+- pyPassword Generator Program
