@@ -1,0 +1,7 @@
+- For & While Loops
+- IF/ELSE
+- Lists
+- Strings
+- Range
+- Modules
+- Hangman Game
