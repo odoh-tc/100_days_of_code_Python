@@ -1,1 +1,3 @@
 - Functions with Outputs
+- Days in a month project
+- Calculator Project
