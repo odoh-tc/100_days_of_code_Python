@@ -1,0 +1,4 @@
+- Local and Global Scope
+- Block Scope
+- Global Constant
+- Number guessing game project
