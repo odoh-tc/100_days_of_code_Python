@@ -1,0 +1,4 @@
+- Build Pong
+- The famous Arcade Game
+- Right paddle is controlled by "UP" and "Down" key.
+- Left paddle is controlled by "w" and "s" key.
