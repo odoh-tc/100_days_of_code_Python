@@ -1,2 +1,3 @@
--  Working with CSV Data and the pandas library
+- Using just file methods
+- Working with CSV library and the pandas library
 - The Great Squirrel Census Data Analysis
