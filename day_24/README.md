@@ -1,3 +1,4 @@
 - Files, Directories and Paths
 - How to read, write and append to files
 - Modified Snake game by adding highscore
+- Mail Merge Project
